@@ -1,0 +1,7 @@
+{
+  "name": "ĐỒNG HỒ THÔNG MINH",
+  "description": "Ứng dụng giáo dục mầm non giúp trẻ 5-6 tuổi học xem giờ thông qua các thử thách tương tác sinh động với giọng đọc tiếng Việt thân thiện.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
